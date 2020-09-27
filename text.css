@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+  
+p{
+   
+ 
+    color: black;
+}
+
+h1,h2,h3,h4,h5,h6{
+    outline-style: dashed;
+    outline-width: 5px;
+    outline-color: lime;
+    outline-offset: 2.5px;
+    width: max-content;
+    color: red;
+} 
+div{
+    color: white;
+}
+
+h4  ,#baslik1{
+     letter-spacing: 10px;
+    width: max-content;
+    margin: auto;
+    background-color: green;
+    border: solid medium yellowgreen;
+    color: red;
+}
+ 
+div ,#kalp{
+    
+    width: 800px;
+    height: 800px;
+    padding: 10px;
+    margin: auto;
+    background-color: red;
+   border-radius: 25px 50px 75px 100px;
+  word-spacing: 10px;
+
+}
+
+div ,#sen{
+    border-style: groove;
+    border-color: aqua;
+    width: 800px;
+    border-width: 5px;
+    height: 800px;
+    color: blue;
+    padding: 10px;
+    margin: auto;
+    background-color:yellow;
+}
+body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1em;
+font-weight: 600;
+line-height: 18px;
+}
+b{
+    text-decoration: underline yellow wavy;
+}
+body{
+    white-space: pre-wrap;
+   background-image: url(20200217_123108.png) ;
+}
